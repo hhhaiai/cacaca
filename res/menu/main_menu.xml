@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/test_sensor_list" android:title="传感器列表"/>
+	<item android:id="@+id/test_light_sensor" android:title="光传感器"/>
+	<item android:id="@+id/test_proximity_sensor" android:title="近距离传感器"/>
+	<item android:id="@+id/test_gyroscope_sensor" android:title="陀螺仪"/>
+	<item android:id="@+id/test_accelerometer_sensor" android:title="加速测量仪"/>
+	<item android:id="@+id/test_accelerometer_2_sensor" android:title="重力测量"/>
+	<item android:id="@+id/test_magnetic_sensor" android:title="磁场传感器"/>
+	<item android:id="@+id/test_orientation" android:title="方位测量"/>
+</menu>
